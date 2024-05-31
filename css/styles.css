@@ -1,0 +1,10 @@
+h1 {
+    color: #d54215;
+}
+a {
+    text-decoration-line: none;
+    color: #000;
+}
+a:hover {
+    color: #d54215;
+}
